@@ -9,6 +9,7 @@
 - [Miniguia de Estudos](#miniguia-de-estudos)
 - [Glossário](#glossário)
 - [Prompts Reutilizáveis](#prompts-reutilizáveis)
+- [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Conclusão](#conclusão)
 
 ## Contexto e Objetivos
@@ -362,6 +363,20 @@ Analise este dashboard e sugira melhorias de visualização e usabilidade.
 ```
 Quais tipos de gráficos são mais adequados para representar os seguintes dados: [dados]?
 ```
+
+## Competências Desenvolvidas
+
+- Business Intelligence (BI)
+- Análise de Dados
+- Visualização de Dados
+- Engenharia de Prompts
+- Curadoria de Fontes
+- Storytelling com Dados
+- Pensamento Crítico
+- Aprendizagem Assistida por IA
+- Pesquisa e Síntese de Informações
+- Comparação de Ferramentas Analíticas
+
 
 ## Conclusão
 
