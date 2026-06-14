@@ -383,6 +383,7 @@ Quais tipos de gráficos são mais adequados para representar os seguintes dados
 ## Conclusão
 
 O NotebookLM demonstrou ser uma ferramenta eficiente para aprendizagem ativa, permitindo centralizar fontes de estudo e realizar consultas contextualizadas.  Apesar do desafio dar foco nas respostas de texto, também verifiquei como são os mapas mentais e cartões personalizados gerados pela plataforma.
+
 <img width="591" height="204" alt="image" src="https://github.com/user-attachments/assets/29062829-c780-4dc0-832a-62231d3d12e9" />
 <img width="543" height="287" alt="image" src="https://github.com/user-attachments/assets/53bca7ea-47fc-4334-8b3f-107936c6f1d8" />
 
