@@ -166,7 +166,12 @@ Prompt 4
 Explique quando utilizar gráficos de barras, linhas, pizza, dispersão e mapas.
 ```
 Resultado Obtido:
-Foram apresentados cenários ideais para cada visualização.
+A IA apresentou os cenários mais adequados para cada tipo de visualização, destacando suas vantagens e limitações.
+- Gráfico de Barras: comparação entre categorias.
+- Gráfico de Linhas: análise temporal.
+- Gráfico de Pizza: participação percentual.
+- Gráfico de Dispersão: identificação de correlações.
+- Mapas: análise geográfica.
 
 ## Miniguia de Estudos
 ### 1. Fundamentos da Análise de Dados
@@ -291,15 +296,24 @@ Indicado para:
 ## Glossário
 **Dashboard:** Painel visual que reúne indicadores e métricas importantes.
 
+**Dashboard Executivo:** Painel voltado para acompanhamento de indicadores estratégicos da empresa.
+
 **KPI:** Indicador-chave de desempenho utilizado para medir resultados.
 
 **ETL:** Processo de Extrair, Transformar e Carregar dados.
 
+**Data Lake:** Repositório capaz de armazenar dados estruturados e não estruturados.
+
 **Data Warehouse:** Repositório centralizado para armazenamento de dados analíticos.
+
+**DAX:** Linguagem utilizada para criação de medidas e cálculos no Power BI.
 
 **Business Intelligence (BI):** Conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis.
 
 **Storytelling com Dados:** Prática de comunicar insights através de visualizações e narrativas.
+
+
+
 
 ## Prompts Reutilizáveis
 ```
