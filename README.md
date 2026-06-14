@@ -272,7 +272,7 @@ Vantagens:
 Indicado para:
 - Empresas que utilizam Excel, Azure e Microsoft 365.
 
-<br></br>
+
 **Tableau**
 
 Vantagens:
@@ -283,7 +283,7 @@ Vantagens:
 Indicado para:
 - Projetos com forte foco em visual analytics.
 
-<br></br>
+
 **Looker Studio**
 
 Vantagens:
