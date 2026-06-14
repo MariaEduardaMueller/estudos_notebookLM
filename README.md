@@ -11,7 +11,7 @@
 - [Prompts Reutilizáveis](#prompts-reutilizáveis)
 - [Conclusão](#conclusão)
 
-### Contexto e Objetivos
+## Contexto e Objetivos
 
 O crescimento da quantidade de dados gerados pelas organizações tornou essencial a capacidade de transformar informações em insights para apoiar a tomada de decisões.
 Este projeto tem como objetivo utilizar o `NotebookLM` como ferramenta de aprendizagem ativa para estudar os principais conceitos relacionados à área de Dados, com foco especial em:
@@ -25,7 +25,7 @@ Este projeto tem como objetivo utilizar o `NotebookLM` como ferramenta de aprend
 
 Ao longo do estudo, foram utilizadas fontes abertas para construir um caderno temático e explorar diferentes técnicas de engenharia de prompts.
 
-### Curadoria de Fontes
+## Curadoria de Fontes
 - Guia de Visualização de Dados da Tableau: https://www.tableau.com/learn/articles/data-visualization
 - Documentação Oficial do Power BI: https://learn.microsoft.com/pt-br/power-bi/
 - Google Data Analytics Professional Certificate: https://www.coursera.org/professional-certificates/google-data-analytics
@@ -37,7 +37,7 @@ Adicionei todas diretamente no NotebookLM:
 <img width="301" height="308" alt="image" src="https://github.com/user-attachments/assets/97f8cdaa-0e0b-44e8-9e32-d4777cc265f9" />
 
 
-### Engenharia de Prompts e Aprendizados
+## Engenharia de Prompts e Aprendizados
 
 Prompt 1
 ```
