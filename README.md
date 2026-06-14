@@ -15,7 +15,7 @@
 ## Contexto e Objetivos
 
 O crescimento da quantidade de dados gerados pelas organizações tornou essencial a capacidade de transformar informações em insights para apoiar a tomada de decisões.
-Este projeto tem como objetivo utilizar o `NotebookLM` como ferramenta de aprendizagem ativa para estudar os principais conceitos relacionados à área de Dados, com foco especial em:
+Este projeto tem como objetivo utilizar o `NotebookLM` como ferramenta de aprendizagem ativa para estudar os principais conceitos relacionados à área de Dados, com foco especial em:  
 
 - Fundamentos de análise de dados;
 - Visualização de dados;
