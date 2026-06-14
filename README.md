@@ -39,7 +39,8 @@ Adicionei todas diretamente no NotebookLM:
 
 ## Engenharia de Prompts e Aprendizados
 
-Prompt 1
+**Prompt 1**
+
 ```
 Explique os principais tipos de análise de dados utilizados nas empresas.
 ```
@@ -82,7 +83,8 @@ Aprendizado:
 O prompt gerou uma visão geral adequada para iniciar os estudos.
 ```
 
-Prompt 2
+**Prompt 2**
+
 ```
 Compare Power BI e Tableau considerando facilidade de uso, custo, visualizações e integração com outras ferramentas.
 ```
@@ -98,8 +100,11 @@ E um resumo da resposta:
 ```
 Em resumo, enquanto o Power BI se destaca pela sua forte integração com o ambiente Microsoft e acessibilidade inicial , o Tableau é enfatizado por sua capacidade analítica visual avançada e presença consolidada no treinamento de novos analistas de dados
 ```
+Aprendizado:
+A comparação permitiu compreender que a escolha da ferramenta depende do contexto da empresa. O Power BI apresenta vantagens para organizações que já utilizam o ecossistema Microsoft, enquanto o Tableau se destaca pela flexibilidade e qualidade das visualizações.
 
-Prompt 3
+**Prompt 3**
+
 ```
 Quais KPIs são mais utilizados em áreas comerciais, financeiras e de marketing?
 ```
@@ -173,6 +178,9 @@ A IA apresentou os cenários mais adequados para cada tipo de visualização, de
 - Gráfico de Dispersão: identificação de correlações.
 - Mapas: análise geográfica.
 
+Aprendizado:
+Percebi que a escolha do gráfico influencia diretamente a interpretação dos dados. Utilizar uma visualização inadequada pode dificultar a identificação de padrões e comprometer a comunicação dos insights.
+
 ## Miniguia de Estudos
 ### 1. Fundamentos da Análise de Dados
 
@@ -188,23 +196,26 @@ Etapas principais:
 
 ### 2. Tipos de Análise de Dados
 **Análise Descritiva**
-Responde:
-O que aconteceu?
 
-Exemplo: Vendas do último mês; Análise Diagnóstica
+Responde: O que aconteceu?
 
-Responde:
-Por que aconteceu?
+Exemplo: Vendas do último mês.
 
-Exemplo: Motivos da queda nas vendas; Análise Preditiva
+**Análise Diagnóstica**
 
-Responde:
-O que provavelmente acontecerá?
+Responde: Por que aconteceu?
 
-Exemplo: Previsão de demanda; Análise Prescritiva
+Exemplo: Motivos da queda nas vendas.
 
-Responde:
-O que devemos fazer?
+**Análise Preditiva**
+
+Responde: O que provavelmente acontecerá?
+
+Exemplo: Previsão de demanda.
+
+**Análise Prescritiva**
+
+Responde: O que devemos fazer?
 
 Exemplo: Sugestão de ações para aumentar vendas.
 
@@ -260,7 +271,26 @@ Financeiro
 - Fluxo de Caixa
 - EBITDA
 
+### Exemplos de Cálculo de KPIs
+
+**Ticket Médio:** Receita Total ÷ Número de Vendas
+
+**Taxa de Conversão:** (Conversões ÷ Total de Leads) × 100
+
+**ROI (Retorno sobre Investimento):** ((Receita - Investimento) ÷ Investimento) × 100
+
+**CAC (Custo de Aquisição de Cliente):** Investimento em Marketing ÷ Número de Novos Clientes
+
 ### 5. Ferramentas de BI
+Em resumo:
+| Ferramenta | Principal Vantagem | Melhor Aplicação |
+|------------|-------------------|------------------|
+| Power BI | Integração Microsoft | Dashboards corporativos |
+| Tableau | Visualizações avançadas | Análises exploratórias |
+| Looker Studio | Gratuito | Marketing Digital |
+
+Maiores detalhes:
+
 **Power BI**
 
 Vantagens:
@@ -292,6 +322,7 @@ Vantagens:
 - Fácil compartilhamento
 Indicado para:
 - Dashboards de marketing digital.
+
 
 ## Glossário
 **Dashboard:** Painel visual que reúne indicadores e métricas importantes.
