@@ -332,3 +332,8 @@ Analise este dashboard e sugira melhorias de visualização e usabilidade.
 Quais tipos de gráficos são mais adequados para representar os seguintes dados: [dados]?
 ```
 
+## Conclusão
+
+O NotebookLM demonstrou ser uma ferramenta eficiente para aprendizagem ativa, permitindo centralizar fontes de estudo e realizar consultas contextualizadas.
+Durante o desenvolvimento deste projeto, foi possível compreender melhor conceitos fundamentais de análise de dados, visualização de informações, KPIs e ferramentas de Business Intelligence.
+Além disso, o exercício evidenciou a importância da engenharia de prompts para obter respostas mais completas e alinhadas aos objetivos de estudo.
