@@ -24,9 +24,11 @@ Este projeto tem como objetivo utilizar o `NotebookLM` como ferramenta de aprend
 - Ferramentas de Business Intelligence;
 - Diferenças entre Power BI, Tableau e outras plataformas analíticas.
 
-Ao longo do estudo, foram utilizadas fontes abertas para construir um caderno temático e explorar diferentes técnicas de engenharia de prompts.
+Ao longo do estudo, utilizei fontes abertas para construir um caderno temático e explorar diferentes técnicas de engenharia de prompts conforme solicitado pelo desafio. Escolhi o tema da área de dados por ser uma área que tenho muito interesse e já tenho certa familiaridade.
 
 ## Curadoria de Fontes
+Peguei fontes gerais dos temas que eu pretendia abordar.
+
 - Guia de Visualização de Dados da Tableau: https://www.tableau.com/learn/articles/data-visualization
 - Documentação Oficial do Power BI: https://learn.microsoft.com/pt-br/power-bi/
 - Google Data Analytics Professional Certificate: https://www.coursera.org/professional-certificates/google-data-analytics
@@ -49,7 +51,7 @@ Resultado Obtido:
 ```
 [...]
 Para responder à sua pergunta, as empresas geralmente utilizam quatro tipos principais de análise:
-Descritiva: Explica o que aconteceu (ex: relatórios de vendas).
+Descritiva: Explica o que aconteceu (ex: relatórios de vendas);
 Diagnóstica: Investiga por que aconteceu (causas de um problema).
 Preditiva: Usa dados históricos para prever o que pode acontecer.
 Prescritiva: Sugere caminhos e ações sobre o que fazer.
@@ -90,7 +92,7 @@ O prompt gerou uma visão geral adequada para iniciar os estudos.
 Compare Power BI e Tableau considerando facilidade de uso, custo, visualizações e integração com outras ferramentas.
 ```
 Resultado Obtido:
-Recebi um resumo comparatório sobre:
+Recebi um resumo comparatório sobre os dois nos tópicos:
 ```
 1. Facilidade de Uso.
 2. Custo.
@@ -143,22 +145,22 @@ Resultado Após Refinamento
 A resposta passou a incluir indicadores mais relevantes para o mercado, como:
 ```
 Comercial
-- Ticket Médio
-- Taxa de Conversão
-- Receita Total
-- Número de Clientes Ativos
+- Ticket Médio;
+- Taxa de Conversão;
+- Receita Total;
+- Número de Clientes Ativos.
 
 Financeiro
-- Margem de Lucro
-- EBITDA
-- Fluxo de Caixa
-- ROI
+- Margem de Lucro;
+- EBITDA;
+- Fluxo de Caixa;
+- ROI.
 
 Marketing
-- CAC (Custo de Aquisição de Cliente)
-- CTR (Click Through Rate)
-- Taxa de Conversão
-- Retorno sobre Investimento em Campanhas
+- CAC (Custo de Aquisição de Cliente);
+- CTR (Click Through Rate);
+- Taxa de Conversão;
+- Retorno sobre Investimento em Campanhas.
 ```
 
 Aprendizado:
@@ -261,7 +263,7 @@ Comercial
 - Número de Clientes
 
 Marketing
-- CAC (Custo de Aquisição de Cliente)
+- CAC(Custo de Aquisição de Cliente)
 - ROI
 - CTR
 - Leads Gerados
@@ -366,7 +368,7 @@ Quais tipos de gráficos são mais adequados para representar os seguintes dados
 
 ## Competências Desenvolvidas
 
-- Business Intelligence (BI)
+- Business Intelligence(BI)
 - Análise de Dados
 - Visualização de Dados
 - Engenharia de Prompts
@@ -380,6 +382,10 @@ Quais tipos de gráficos são mais adequados para representar os seguintes dados
 
 ## Conclusão
 
-O NotebookLM demonstrou ser uma ferramenta eficiente para aprendizagem ativa, permitindo centralizar fontes de estudo e realizar consultas contextualizadas.
-Durante o desenvolvimento deste projeto, foi possível compreender melhor conceitos fundamentais de análise de dados, visualização de informações, KPIs e ferramentas de Business Intelligence.
-Além disso, o exercício evidenciou a importância da engenharia de prompts para obter respostas mais completas e alinhadas aos objetivos de estudo.
+O NotebookLM demonstrou ser uma ferramenta eficiente para aprendizagem ativa, permitindo centralizar fontes de estudo e realizar consultas contextualizadas.  Apesar do desafio dar foco nas respostas de texto, também verifiquei como são os mapas mentais e cartões personalizados gerados pela plataforma.
+<img width="591" height="204" alt="image" src="https://github.com/user-attachments/assets/29062829-c780-4dc0-832a-62231d3d12e9" />
+<img width="543" height="287" alt="image" src="https://github.com/user-attachments/assets/53bca7ea-47fc-4334-8b3f-107936c6f1d8" />
+
+
+Durante o desenvolvimento deste projeto, compreendimelhor e aprendi bastante sobre conceitos fundamentais de análise de dados, visualização de informações, KPIs e ferramentas de Business Intelligence.
+Além disso, o desafio evidenciou a importância da engenharia de prompts para obter respostas mais completas e alinhadas aos objetivos de estudo. 
