@@ -104,7 +104,7 @@ E um resumo da resposta:
 Em resumo, enquanto o Power BI se destaca pela sua forte integração com o ambiente Microsoft e acessibilidade inicial , o Tableau é enfatizado por sua capacidade analítica visual avançada e presença consolidada no treinamento de novos analistas de dados
 ```
 Aprendizado:
-A comparação permitiu compreender que a escolha da ferramenta depende do contexto da empresa. O Power BI apresenta vantagens para organizações que já utilizam o ecossistema Microsoft, enquanto o Tableau se destaca pela flexibilidade e qualidade das visualizações.
+A comparação permitiu compreender q a escolha da ferramenta depende do contexto da empresa. O Power BI apresenta vantagens para organizações que já utilizam o ecossistema Microsoft, enquanto o Tableau se destaca pela flexibilidade e qualidade das visualizações.
 
 **Prompt 3**
 
@@ -200,7 +200,7 @@ Etapas principais:
 ### 2. Tipos de Análise de Dados
 **Análise Descritiva**
 
-Responde: O que aconteceu?
+Responde: Oque aconteceu?
 
 Exemplo: Vendas do último mês.
 
