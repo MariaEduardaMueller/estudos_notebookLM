@@ -1,6 +1,16 @@
 ## Treinando uma IA de Aprendizagem com NotebookLM
 ### Fundamentos de Dados, Análise e Visualização de Informações
 
+## Sumário
+
+- [Contexto e Objetivos](#contexto-e-objetivos)
+- [Curadoria de Fontes](curadoria-de-fontes)
+- Engenharia de Prompts e Aprendizados
+- Miniguia de Estudos
+- Glossário
+- Prompts Reutilizáveis
+- Conclusão
+
 ### Contexto e Objetivos
 
 O crescimento da quantidade de dados gerados pelas organizações tornou essencial a capacidade de transformar informações em insights para apoiar a tomada de decisões.
@@ -196,23 +206,27 @@ Exemplo: Sugestão de ações para aumentar vendas.
 ### 3. Visualização de Dados
 A visualização de dados permite transformar números em informações facilmente compreensíveis.
 **Gráfico de Barras**
+
 Melhor para:
 - Comparar categorias
 - Ranking de produtos
 - Vendas por região
 
 **Gráfico de Linhas**
+
 Melhor para:
 - Séries temporais
 - Evolução de indicadores
 Exemplo: Faturamento mensal
 
 **Gráfico de Pizza**
+
 Melhor para:
 - Participação percentual
 Exemplo: Market Share
 
 **Gráfico de Dispersão**
+
 Melhor para:
 - Identificar correlações
 Exemplo: Investimento em marketing x vendas
@@ -243,6 +257,7 @@ Financeiro
 
 ### 5. Ferramentas de BI
 **Power BI**
+
 Vantagens:
 - Forte integração com Microsoft
 - Excelente custo-benefício
@@ -252,7 +267,9 @@ Vantagens:
 Indicado para:
 - Empresas que utilizam Excel, Azure e Microsoft 365.
 
+<br></br>
 **Tableau**
+
 Vantagens:
 - Visualizações avançadas
 - Interface intuitiva
@@ -261,7 +278,9 @@ Vantagens:
 Indicado para:
 - Projetos com forte foco em visual analytics.
 
+<br></br>
 **Looker Studio**
+
 Vantagens:
 - Gratuito
 - Integração com Google Analytics
@@ -270,23 +289,17 @@ Indicado para:
 - Dashboards de marketing digital.
 
 ## Glossário
-**Dashboard** 
-Painel visual que reúne indicadores e métricas importantes.
+**Dashboard:** Painel visual que reúne indicadores e métricas importantes.
 
-**KPI**
-Indicador-chave de desempenho utilizado para medir resultados.
+**KPI:** Indicador-chave de desempenho utilizado para medir resultados.
 
-**ETL**
-Processo de Extrair, Transformar e Carregar dados.
+**ETL:** Processo de Extrair, Transformar e Carregar dados.
 
-**Data Warehouse**
-Repositório centralizado para armazenamento de dados analíticos.
+**Data Warehouse:** Repositório centralizado para armazenamento de dados analíticos.
 
-**Business Intelligence (BI)**
-Conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis.
+**Business Intelligence (BI):** Conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis.
 
-**Storytelling com Dados**
-Prática de comunicar insights através de visualizações e narrativas.
+**Storytelling com Dados:** Prática de comunicar insights através de visualizações e narrativas.
 
 ## Prompts Reutilizáveis
 ```
